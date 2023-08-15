@@ -1,0 +1,1 @@
+export const baseUrl = "https://recipes-backend-v9jb.onrender.com"
